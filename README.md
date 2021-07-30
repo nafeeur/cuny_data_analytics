@@ -1,1 +1,1 @@
-# data_analytics_2
+# CUNY EverUp Micro-Credential course in Data Analytics
