@@ -12,6 +12,7 @@ This is an applied, project-based course which prepares students to gather, wran
 * Advanced techniques and statistical tools to conduct thorough and insightful analyses, and to interpret the results in an accurate and meaningful way
 *	Tableau to build interactive dashboards using data visualization techniques
 
+
 <img src="https://www.cuny.edu/wp-content/uploads/sites/4/page-assets/home-preview/jobs-ceo-council/EVERUP_Logo-square.jpg"
      alt="EverUP"
      style="float: left; margin-right: 10px;" />
